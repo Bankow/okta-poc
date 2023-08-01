@@ -7,4 +7,5 @@ const App = () => (
     <AppWithRouterAccess />
   </Router>
 );
+
 export default App;
